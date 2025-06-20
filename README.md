@@ -61,6 +61,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelnoxi&layout=donut&langs_count=10&size_weight=0&count_weight=1&theme=dracula" />
 </p>
 
+---
+
+## 🙏 Agradecimentos
+
+### 📸 Gratidão pela parceria
+- **GRIDElab** – meu projeto de fotografia que conecta criatividade com tecnologia.
+- A todos que apoiam meus projetos pessoais e profissionais 🙏
+
+<p align="center">
+  <strong style="font-size: 20px">Obrigado por visitar meu perfil!</strong>  
+  <br/>
+  💻📷✨  
+</p>
 
 
 
