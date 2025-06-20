@@ -55,10 +55,12 @@
 
 ---
 
-## 📊 Linguagens
+## 📊 Linguagens por Repositório
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelnoxi&layout=donut&langs_count=6&theme=dracula&hide=other" alt="Gráfico de Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelnoxi&layout=donut&langs_count=10&size_weight=0&count_weight=1&theme=dracula" alt="Gráfico de Linguagens por Repositório" />
 </p>
+
+
 
 
