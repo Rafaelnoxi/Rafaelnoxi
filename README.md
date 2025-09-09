@@ -27,34 +27,6 @@
 
 ---
 
----
-
-### 📷 Me siga no Instagram
-
-<p align="center">
-  <a href="https://instagram.com/rafaelnoxi_" target="_blank">
-    <img src="https://img.shields.io/badge/@rafaelnoxi_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Confira meus últimos cliques:</b>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/p/DBkWyqrNYPH/?img_index=1" target="_blank">
-    <img src="https://instagram.fmgf6-1.fna.fbcdn.net/v/t51.29350-15/464662307_895042482580302_847012438157624564_n.webp?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTQ0MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fmgf6-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QGMaUtZR6KHeY91lyZrnsGEj_as1W5CrteaXucfP4GhOGnLT2urDjeEa8j83oqtgSA&_nc_ohc=ZX0f1yDGBFEQ7kNvwFpYqB9&_nc_gid=vYMOHc7Fe1Fe22VWbOT2Pw&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzQ4NzAxMjI0NDQ3MjI2NDI0NA%3D%3D.3-ccb7-5&oh=00_AfPu7t_xieR4Pu3qeyVKf976nLx__tLuSsFScWh6GspoyA&oe=685B671A&_nc_sid=7a9f4b" width="100" />
-  </a>
-  <a href="https://www.instagram.com/p/DKu9G2pS1rl/?img_index=2" target="_blank">
-    <img src="https://instagram.fmgf6-1.fna.fbcdn.net/v/t51.29350-15/505086177_1026009153053087_5112651001676952953_n.heic?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTQ0MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fmgf6-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QGMaUtZR6KHeY91lyZrnsGEj_as1W5CrteaXucfP4GhOGnLT2urDjeEa8j83oqtgSA&_nc_ohc=0si2LgVFTH4Q7kNvwF3mywY&_nc_gid=vYMOHc7Fe1Fe22VWbOT2Pw&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzY1MjEyNTA5MTI1MDU3MTI3Ng%3D%3D.3-ccb7-5&oh=00_AfPMv4YosxQ9Ck-4yQb9-ocJxzaEhTIpQTsnKyJzFT-nhA&oe=685B3D2A&_nc_sid=7a9f4b" width="100" />
-  </a>
-  <a href="https://www.instagram.com/p/DFGYptmShum/?img_index=1" target="_blank">
-    <img src="https://instagram.fmgf6-1.fna.fbcdn.net/v/t51.29350-15/474493087_3385436931751090_3864464621797611463_n.webp?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTQ0MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fmgf6-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QGMaUtZR6KHeY91lyZrnsGEj_as1W5CrteaXucfP4GhOGnLT2urDjeEa8j83oqtgSA&_nc_ohc=XBzk8WtmkBIQ7kNvwEKdYoq&_nc_gid=vYMOHc7Fe1Fe22VWbOT2Pw&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzU1MDYzMzc2OTA2NzgwNjkwOA%3D%3D.3-ccb7-5&oh=00_AfNxDbMggR4DrPK88foOblYEWpXEtFuVnmvv1cJ47yITMA&oe=685B5AE4&_nc_sid=7a9f4b" width="100" />
-  </a>
-</p>
-
----
-
 ## 📊 Linguagens
 
 <p align="center">
