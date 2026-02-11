@@ -1,54 +1,235 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQH_G2NiarJlNA/profile-displaybackgroundimage-shrink_350_1400/B4EZeLjupDHwAY-/0/1750393089715" alt="Banner do Perfil"/>
-</p>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rafaelnoxi</title>
 
-<h1 align="center">Olá, eu sou Rafael Travain! 👋</h1>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-<p align="center">
-  Um Fotógrafo apaixonado por Programação.
-</p>
+<style>
+:root{
+  --bg:#0a0a0a;
+  --card:#111111;
+  --text:#eaeaea;
+  --muted:#888;
+  --border:rgba(255,255,255,0.08);
+}
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-barboza-travain-4ba302370/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rafatravain@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://gridelab.com">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
 
----
+body{
+  background:var(--bg);
+  color:var(--text);
+  line-height:1.6;
+}
 
-## 🚀 Tecnologias e Ferramentas
+.container{
+  max-width:1100px;
+  margin:auto;
+  padding:60px 20px;
+}
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+nav{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:30px 20px;
+  max-width:1100px;
+  margin:auto;
+}
 
----
+nav a{
+  color:var(--muted);
+  text-decoration:none;
+  margin-left:25px;
+  font-size:.9rem;
+}
 
-## 📊 Linguagens Mais Usadas
+nav a:hover{color:#fff;}
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelnoxi&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+.hero{
+  padding:120px 0 80px 0;
+}
 
----
+.hero h1{
+  font-size:3rem;
+  font-weight:500;
+}
 
-## 🙏 Agradecimentos
+.hero p{
+  margin-top:20px;
+  max-width:600px;
+  color:var(--muted);
+}
 
-### 📸 Gratidão pela parceria
-- **GRIDElab** – meu projeto de fotografia que conecta criatividade com tecnologia.
-- A todos que apoiam meus projetos pessoais e profissionais 🙏
+.section{
+  padding:100px 0;
+  border-top:1px solid var(--border);
+}
 
-<p align="center">
-  <b>Obrigado por visitar meu perfil!</b><br/>
-  💻 📷 ✨
-</p>
+.section h2{
+  font-size:1.6rem;
+  margin-bottom:40px;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:30px;
+}
+
+.card{
+  background:var(--card);
+  border:1px solid var(--border);
+  padding:30px;
+  border-radius:16px;
+}
+
+.stat-number{
+  font-size:2rem;
+}
+
+.stat-label{
+  color:var(--muted);
+  font-size:.9rem;
+}
+
+footer{
+  padding:60px 0;
+  text-align:center;
+  border-top:1px solid var(--border);
+  color:var(--muted);
+  font-size:.9rem;
+}
+</style>
+</head>
+
+<body>
+
+<nav>
+  <strong>Rafaelnoxi</strong>
+  <div>
+    <a href="#sobre">Sobre</a>
+    <a href="#projetos">Projetos</a>
+    <a href="#contato">Contato</a>
+  </div>
+</nav>
+
+<div class="container">
+
+<section class="hero">
+  <h1>Desenvolvedor focado em tecnologia moderna.</h1>
+  <p>
+    Construindo soluções eficientes, minimalistas e escaláveis.
+  </p>
+</section>
+
+<section id="sobre" class="section">
+  <h2>Sobre</h2>
+  <p style="max-width:700px;color:#888">
+    Desenvolvedor interessado em projetos web, automação e boas práticas.
+  </p>
+</section>
+
+<section id="projetos" class="section">
+  <h2>Estatísticas GitHub</h2>
+
+  <div class="grid" style="margin-bottom:60px">
+    <div class="card">
+      <div class="stat-number" id="repoCount">0</div>
+      <div class="stat-label">Repositórios</div>
+    </div>
+    <div class="card">
+      <div class="stat-number" id="followers">0</div>
+      <div class="stat-label">Seguidores</div>
+    </div>
+    <div class="card">
+      <div class="stat-number" id="stars">0</div>
+      <div class="stat-label">Estrelas Totais</div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Projetos Relevantes</h3>
+      <canvas id="reposChart"></canvas>
+    </div>
+
+    <div class="card">
+      <h3>Linguagens</h3>
+      <canvas id="languagesChart"></canvas>
+    </div>
+  </div>
+</section>
+
+<section id="contato" class="section">
+  <h2>Contato</h2>
+  <p style="color:#888">
+    GitHub: github.com/Rafaelnoxi<br>
+    Email: seuemail@email.com
+  </p>
+</section>
+
+</div>
+
+<footer>
+© 2026 Rafaelnoxi
+</footer>
+
+<script>
+const username="Rafaelnoxi";
+
+async function loadData(){
+
+  const userRes=await fetch(`https://api.github.com/users/${username}`);
+  const user=await userRes.json();
+
+  document.getElementById("repoCount").innerText=user.public_repos;
+  document.getElementById("followers").innerText=user.followers;
+
+  const reposRes=await fetch(`https://api.github.com/users/${username}/repos?per_page=100`);
+  const repos=await reposRes.json();
+
+  let totalStars=0;
+  repos.forEach(r=>totalStars+=r.stargazers_count);
+  document.getElementById("stars").innerText=totalStars;
+
+  const topRepos=repos.sort((a,b)=>b.stargazers_count-a.stargazers_count).slice(0,5);
+
+  new Chart(document.getElementById("reposChart"),{
+    type:"bar",
+    data:{
+      labels:topRepos.map(r=>r.name),
+      datasets:[{data:topRepos.map(r=>r.stargazers_count)}]
+    },
+    options:{plugins:{legend:{display:false}}}
+  });
+
+  const langCount={};
+  repos.forEach(r=>{
+    if(r.language){
+      langCount[r.language]=(langCount[r.language]||0)+1;
+    }
+  });
+
+  new Chart(document.getElementById("languagesChart"),{
+    type:"doughnut",
+    data:{
+      labels:Object.keys(langCount),
+      datasets:[{data:Object.values(langCount)}]
+    }
+  });
+
+}
+
+loadData();
+</script>
+
+</body>
+</html>
