@@ -12,7 +12,8 @@
 
 <!-- 🔥 BANNER -->
 <!-- 📐 Tamanho recomendado: 1280x320 -->
-<img src="[https://imgur.com/gallery/QK5x52C](https://i.imgur.com/Zbzqd23.png)" width="100%" />
+<img src="https://i.imgur.com/Zbzqd23.png" width="100%" />
+
 
 </div>
 
@@ -26,13 +27,17 @@
 
 ---
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Status
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafaelnoxi&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelnoxi&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafaelnoxi&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafaelnoxi&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafaelnoxi&theme=github_dark" />
 
 </div>
 
