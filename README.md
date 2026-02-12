@@ -12,7 +12,7 @@
 
 <!-- 🔥 BANNER -->
 <!-- 📐 Tamanho recomendado: 1280x320 -->
-<img src="LINK_DO_SEU_BANNER_AQUI" width="100%" />
+<img src="[https://imgur.com/gallery/QK5x52C](https://i.imgur.com/Zbzqd23.png)" width="100%" />
 
 </div>
 
